@@ -2,8 +2,8 @@
 title: It Just Clicks Launcher
 description: Documentation for the It Just Clicks Launcher
 
-# Theme Configuration
-remote_theme: just-the-docs/just-the-docs
+# Theme Config
+theme: just-the-docs
 
 # Optional: Enable built-in search and dark mode/auto color scheme
 search_enabled: true
