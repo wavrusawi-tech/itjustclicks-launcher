@@ -5,7 +5,7 @@ url: "https://your-github-username.github.io"
 baseurl: "/itjustclicks-launcher"
 
 # Theme Config
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 # Optional: Enable built-in search and dark mode/auto color scheme
 search_enabled: true
