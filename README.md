@@ -1,1 +1,2 @@
-**MAKE SURE TO DELETE ALL .pyc**
+> [!note]
+> Please read the license before downloading this software.
